@@ -68,7 +68,8 @@ It supports informed decision-making for marketing and product strategies.
 ---
 
 ## 📷 Screenshots
-(Screenshots of the Tableau dashboard visuals should be added here)
+![image](https://github.com/user-attachments/assets/0082bec3-f914-4e87-a62c-cd0d9794b412)
+
 
 ---
 
