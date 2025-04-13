@@ -32,23 +32,23 @@ This project was completed as part of a Data Analyst Internship Task. The goal w
    - **Fields Used**: `Date`, `Total Amount`
    - **Purpose**: Visualize sales trends across months or quarters.
 
-3. ### **Sales by Product Category (Bar Chart)**
+3. ### **Average Sales by Product Category (Bar Chart)**
    - **Fields Used**: `Product Category`, `Total Amount`
-   - **Purpose**: Compare which product categories are performing better.
+   - **Purpose**: Compare average sales of product.
 
 4. ### **Sales by Gender (Pie Chart)**
    - **Fields Used**: `Gender`, `Total Amount`
    - **Purpose**: Understand the distribution of sales between genders.
 
-5. ### **Customer Age Distribution (Histogram)**
-   - **Fields Used**: `Age`, `Customer ID`
-   - **Purpose**: Analyze age demographics of customers.
+5. ### **Top Products**
+   - **Fields Used**: `Product Category`, `Total Amount`
+   - **Purpose**: Compare which product categories are performing better.
 
 ---
 
 ## 🛠 How to Use the Dashboard (Tableau)
 
-1. Open Tableau
+1. Open Power BI
 2. Connect to the `retail_sales_dataset.csv` file
 3. Follow the provided visuals and steps to recreate:
    - Drag dimensions and measures as described above
@@ -74,5 +74,5 @@ It supports informed decision-making for marketing and product strategies.
 
 ## 📁 Files Included
 - `retail_sales_dataset.csv`
-- `Retail_Dashboard.twbx` (Tableau workbook)
+- `Task-3-DA.pbix` (Tableau workbook)
 - `README.md`
